@@ -2,7 +2,7 @@
 
 This is a simple auto-clicker that saves you from mashing the mouse yourself. When it is enabled and you hold the left mouse button, it clicks for you at anywhere from 0 up to 25 CPS.
 
-> [!NOTE] 
+> [!NOTE]
 > For **Minecraft Bedrock Edition** (Minecraft for Windows) users, it works properly on the latest version **1.21.131** as of today.
 
 > For **Developers**, [ImGui](https://github.com/ocornut/imgui) is not included in this repository and must be provided by the user.
@@ -18,9 +18,15 @@ This is a simple auto-clicker that saves you from mashing the mouse yourself. Wh
 2. Download and run `LazyMouseWizard.exe`.
 3. Hit your hotkey to toggle (default: F6), hold LMB and enjoy!
 
+## Preview
+
+<p align="center">
+  <img src="images/preview.png" width="720">
+</p>
+
 ---
 
-> [!WARNING] 
+> [!WARNING]
 > This project is provided for **educational and personal use only**.
-> 
+>
 > Use it responsibly and respect the rules of the software you use it with.
